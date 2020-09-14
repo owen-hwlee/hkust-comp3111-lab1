@@ -24,4 +24,4 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 }
 
-mainClassName = 'Library'
+mainClassName = 'Lab1/Library'
